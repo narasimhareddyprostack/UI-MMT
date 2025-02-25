@@ -1,0 +1,15 @@
+Data Validation - HTML form - attributes
+--------------------------------------------
+required
+readonly
+disabled
+min
+max
+minlength
+maxlenght
+value
+name
+id
+pattern
+tabindex
+placeholder
