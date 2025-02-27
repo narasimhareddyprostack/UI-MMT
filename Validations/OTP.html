@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Validations</title>
+    </head>
+    <body>
+        <h4>Validations</h4>
+
+        <form action="/gen-otp">
+            <label >Mobile No:*</label>
+            <input type="text" pattern="[6-9][0-9]{9}" required placeholder="Pls Enter 10 Digit Number"/> <br> <br>
+            
+            <label >Country:::::::</label>
+            <input type="text" disabled required value="INDIA"/>   <br> <br>
+            <input type="submit" value="Get OTP">
+        </form>
+    </body>
+</html>
